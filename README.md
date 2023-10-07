@@ -1,4 +1,5 @@
 # daisy
+远程桌面/远程文件，迷你版向日葵
 ## 一、启动服务端
 ### <a href="https://github.com/oxzjh/daisy/releases">下载服务端程序</a>
 ### 1、Windows（x86-64）
