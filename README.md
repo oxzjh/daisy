@@ -5,7 +5,13 @@
 ### 1、Windows（x86-64）
 右键daisy-windows-amd64.exe，以管理员身份运行。<font color=#ff0000>（部分系统会误认为病毒，需要关闭“病毒和威胁防护”设置里的实时保护，并把daisy-windows-amd64.exe添加到排除项中）</font>
 ### 2、Linux（X11）
-打开终端，./daisy-linux-amd64
+打开终端<br>
+chmod +x daisy-linux-amd64<br>
+./daisy-linux-amd64
+### 3、MacOS（x86）
+打开终端<br>
+chmod +x daisy-darwin-amd64<br>
+./daisy-darwin-amd64
 ### 记下设备ID（9位数）和设备
 示例：
 ```
