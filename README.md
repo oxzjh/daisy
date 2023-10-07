@@ -1,5 +1,6 @@
 # daisy
 ## 一、启动服务端
+### <a href="https://github.com/oxzjh/daisy/releases">下载服务端程序</a>
 ### 1、Windows（x86-64）
 右键daisy-windows-amd64.exe，以管理员身份运行。<font color=#ff0000>（部分系统会误认为病毒，需要关闭“病毒和威胁防护”设置里的实时保护，并把daisy-windows-amd64.exe添加到排除项中）</font>
 ### 2、Linux（X11）
